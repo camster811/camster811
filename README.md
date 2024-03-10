@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cameron
+- 👀 I’m studying in Computer Science and Finance
+- 🌱 I’m currently learning C++, Python, Java, and R
+- 📫 How to reach me: cls0150@auburn.edu
+- ⚡ Fun fact: I train jiu-jitsu!
