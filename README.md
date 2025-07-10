@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cam
 - 👀 I’m studying in Computer Science and Cybersecurity
-- 🌱 I’m currently learning Ruby, Python, and JS
+- 🌱 I’m currently learning Reverse Engineering
 - 📫 How to reach me: cls0150@auburn.edu
 - ⚡ Fun fact: I train jiu-jitsu!
 
